@@ -28,6 +28,5 @@ lo si trova nella repository basta copiare e incollare e corregere i percorsi de
 Esempio : se il modulo ha la lingua italiana  e in odoo non e installata la lingua installata , lo script dara errore
 - Le traduzioni messe manualmente da inetrfaccia odoo li prende a condizione che la lingua della traduzione sia installata su odoo stesso
 e i campi abbiano  "translate=True"
-# Questo SÌ - la traduzione manuale viene salvata e esportata
-name = fields.Char(string='Nome', translate=True)
+
 
