@@ -29,4 +29,6 @@ Esempio : se il modulo ha la lingua italiana  e in odoo non e installata la ling
 - Le traduzioni messe manualmente da inetrfaccia odoo li prende a condizione che la lingua della traduzione sia installata su odoo stesso
 e i campi abbiano  "translate=True"
 
+## 📄 License  
+This project is licensed under the MIT License.
 
